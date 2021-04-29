@@ -1,0 +1,6 @@
+[submodule "empower-ryu"]
+	path = empower-ryu
+	url = https://github.com/hccresende/empower-ryu.git
+[submodule "empower-runtime"]
+	path = empower-runtime
+	url = https://github.com/hccresende/empower-runtime.git
